@@ -4,3 +4,4 @@
 ## Actividad 3-6: Extraccion de Caracteristicas
 ## Actividad 3-7: Regresion Lineal Simple y Multiple
 ## Actividad 3-8: Regresion No Lineal
+## Analisis Socio Formador: act-10_VSCode / act-10_Colab => Dashboard. Act-10_Limpieza => Limpieza de Nulos y Outliers
